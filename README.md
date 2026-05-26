@@ -66,4 +66,4 @@ An AI-powered full-stack personal finance tracking application built using React
 # 📦 Installation
 
 ```bash
-git clone https://github.com/Vimalayembar/expense_tracker.git
+git clone https://github.com/Vimalayembar/expense_tracker
