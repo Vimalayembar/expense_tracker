@@ -1,16 +1,69 @@
-# React + Vite
+# 💰 Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered full-stack personal finance tracking application built using React, Firebase Authentication, Firestore Realtime Database, and modern analytics dashboards.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🚀 Features
 
-## React Compiler
+## 🔐 Authentication
+- Firebase Authentication
+- Secure login/signup system
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💳 Transaction Management
+- Add transactions
+- Edit transactions
+- Delete transactions
+- Search transactions
+- Dynamic custom categories
 
-## Expanding the ESLint configuration
+## ☁️ Cloud Database
+- Firebase Firestore integration
+- Realtime transaction synchronization
+- Persistent cloud storage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📊 Analytics Dashboard
+- Expense breakdown charts
+- Category-wise spending analysis
+- Income vs expense tracking
+- Budget progress indicators
+
+## 💸 Needs & Wants System
+- Categorize spending
+- Dynamic category management
+- Add/delete custom categories
+
+## 📄 Reports
+- AI-powered financial summaries
+- Downloadable PDF reports
+
+## 🌙 UI Features
+- Dark mode
+- Responsive dashboard
+- Interactive charts
+- Modern finance UI
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+- React
+- React Router
+- Chart.js / Recharts
+- CSS
+
+## Backend / Cloud
+- Firebase Authentication
+- Firebase Firestore
+
+## Other Tools
+- jsPDF
+- html2canvas
+
+---
+
+# 📦 Installation
+
+```bash
+git clone https://github.com/Vimalayembar/expense_tracker.git
